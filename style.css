@@ -1,0 +1,12 @@
+.dark-mode{
+    background: #250404;     /* you can pick any color here */
+}
+
+img{
+    width: 10%;
+    margin: 200px auto ;
+    border-radius: 50px;
+    align-items: center;
+    display: flex;
+    cursor: pointer;
+}
